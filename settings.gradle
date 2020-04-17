@@ -1,0 +1,3 @@
+rootProject.name='GradientExample'
+include ':app'
+include ':gradientbg'
