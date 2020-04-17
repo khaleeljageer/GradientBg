@@ -1,2 +1,2 @@
-# GradientExample
+# GradientBg
 To generate Gradient Drawable...
